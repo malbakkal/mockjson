@@ -1,0 +1,12 @@
+{
+"brand":{
+    { "id": 1, name: "General Motors", shortName: "GM"},
+   { "id": 2, name: "Tesla", shortName: "Tesla"},
+      { "id": 3, name: "Acura", shortName: "ACUR"},
+         { "id": 4, name: "Kia", shortName: "Kia"},
+            { "id": 5, name: "Luicd", shortName: "Luicd"},
+               { "id": 6, name: "Ford", shortName: "L"},
+                  { "id": 9, name: "Toyota", shortName: "Toyota"},
+}
+
+}
